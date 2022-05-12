@@ -1,4 +1,5 @@
 #Name: Jose Melquiades Escobar
+#2021 Fall Semester
 
 #turn magic number into named constants 
 dollar = 1
